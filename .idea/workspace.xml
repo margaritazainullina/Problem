@@ -4,7 +4,68 @@
     <list default="true" id="df696e4e-8dc4-40ce-8df5-2d700c7575bb" name="Default" comment="" />
     <ignored path="Problem2.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/web.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378924478336" ignored="false" />
+    <file path="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378924437623" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378925477054" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/encodings.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378922955774" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/pages/hello.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/test/java/com/springapp/mvc/AppTests.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/pages/info.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905537359" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/pages/footer.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/pages/navigation.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/pages/header.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/templates/base-template.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="/base-template.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905354009" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/tiles/base-template.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/base-temlate.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905274629" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/tiles/tiles-templates.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905251069" ignored="false" />
+    <file path="/MainController.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905943598" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/java/controllers/MainController.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="/controller1.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905140422" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/java/controllers/controller1.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378905149923" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/spring/mvc-config.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/web.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="/layout.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378875420755" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/java/controllers/WelcomeController.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378875216730" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/webapp/WEB-INF/pages/welcome.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378875053947" ignored="false" />
+    <file path="/tiles.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378875104413" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/webapp/WEB-INF/pages/header.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874905020" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/webapp/WEB-INF/pages/layout.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378875658976" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/webapp/WEB-INF/tiles.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378904800157" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874690896" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/.idea/workspace.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378904925780" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test3/pom.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874831016" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/pom.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378906076149" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/src/main/webapp/WEB-INF/spring-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874266813" ignored="false" />
+    <file path="/spring-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874143703" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test2/Test2.iml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378874282537" ignored="false" />
+    <file path="/application-context.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873728844" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/java/homepage/HomeController.java" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873651220" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/signup.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873523808" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/home.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873504432" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/navigation.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873493850" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/footer.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873453715" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/header.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873462279" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/layoutWithLeftPane.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873389140" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/jsp/simpleLayout.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873360997" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/tiles.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873287130" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/portal-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873264699" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/application-context.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873728844" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test1/src/main/webapp/WEB-INF/web.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378873163270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/UsingXMLSlurper.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378844523468" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/UsingXMLParser.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378844523468" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/UsingXMLSlurperWithNS.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378844523468" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/UsingDOMCategory.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378842672041" ignored="false" />
+    <file path="/a.dummy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378923032560" ignored="false" />
+    <file path="/views.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378755803810" ignored="false" />
+    <file path="/pom.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378791368949" ignored="false" />
+    <file path="/mvc-dispatcher-servlet.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378924910105" ignored="false" />
+    <file path="/index.jsp" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378754286231" ignored="false" />
     <file path="$PROJECT_DIR$/../Problem1/.idea/workspace.xml" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1378672303193" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/test10.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1379079546293" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/RunTest.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1379079892643" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/samples/Weather.groovy" changelist="df696e4e-8dc4-40ce-8df5-2d700c7575bb" time="1379079892643" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +80,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -55,6 +116,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -64,37 +126,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+            <state line="22" column="45" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppTests.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="997" selection-end="997" vertical-scroll-proportion="0.22160149">
+            <state line="80" column="27" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+            <state line="9" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="standard.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="10" selection-start="4583" selection-end="4583" vertical-scroll-proportion="-0.25345623">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/views.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="79" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/views.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="20" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,6 +195,22 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/layout/standard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/public/views.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/public/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/java5/problem/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.jsp" />
+      </list>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -124,8 +229,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -155,77 +260,59 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mvc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -237,26 +324,135 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mvc" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problem2" />
+              <option name="myItemId" value="Problem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -269,13 +465,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.AppTests">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\proj\Problem\src\main\webapp\WEB-INF\public" />
+      <recent name="C:\proj\Problem\src\main\webapp\WEB-INF" />
+      <recent name="C:\proj\Problem\src\main\webapp\WEB-INF\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\proj\Problem\src\main\resources\config" />
+      <recent name="C:\proj\Problem\src\main\webapp\WEB-INF\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -395,7 +604,79 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="27809" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel" />
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="27810" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -436,37 +717,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6702381" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23030303" sideWeight="0.8544521" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14554794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34075344" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -534,30 +816,107 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/views.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+        <state line="3" column="79" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/views.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+        <state line="6" column="52" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="35" selection-start="5629" selection-end="5629" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="53" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="997" selection-end="997" vertical-scroll-proportion="0.22160149" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-3.1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="417" selection-end="417" vertical-scroll-proportion="0.17435898" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="79" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="45" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/public/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="80" column="27" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/standard.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="997" selection-end="997" vertical-scroll-proportion="0.22160149">
+        <state line="80" column="10" selection-start="4583" selection-end="4583" vertical-scroll-proportion="-0.25345623">
           <folding />
         </state>
       </provider>
